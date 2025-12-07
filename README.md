@@ -4,10 +4,9 @@
 
 I'm a passionate **Full-Stack Developer** and **Data Scientist** with a strong foundation in building scalable web applications and implementing machine learning solutions. Currently pursuing my engineering degree in Computer Science with a specialization in Data & Knowledge Engineering.
 
-- 🎓 **Engineering Student** in Computer Science at ISET Rades, Tunisia
+- 🎓 **Engineering Student** in Computer Science at ITBS Nabeul , Tunisia
 - 💼 **Full-Stack Developer Intern** with experience in modern web technologies
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **AI**
-- 🌍 Based in Tunisia, open to remote opportunities
+- 🌍 Based in  Nabeul Tunisia, open to remote opportunities
 
 ## 💻 Tech Stack
 
@@ -31,11 +30,10 @@ I'm a passionate **Full-Stack Developer** and **Data Scientist** with a strong f
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+
 
 ### Data Science & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
