@@ -76,9 +76,7 @@ Interactive dashboard for data analytics
 
 <div align="center">
   
-![Dorra's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorraMn&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorraMn&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DorraMn&theme=radical)
 
